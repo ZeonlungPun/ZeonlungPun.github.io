@@ -25,6 +25,10 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
+## Competitions
+**The top 13.5% winner of the Huawei Cup National Postgraduate Mathematical Modeling Competition 
+**The top 30% winner of the American Graduate Mathematical Modeling Competition 
+
 ![Bike Study](/assets/img/bike_study.jpeg)
 
 
