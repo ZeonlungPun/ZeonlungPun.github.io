@@ -56,7 +56,7 @@ Developed a Food classification software using ResNet-50 classfication Neural Ne
 
 
 <div align=center>
-<img src="/assets/img/b2.png" width="300" height="540">
+<img src="/assets/img/b2.png" width="300" height="300">
 </div>
 
 
