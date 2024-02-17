@@ -34,7 +34,7 @@ Recognition rate: On a 10th-generation i3 device with a CPU of 1,000 grains/imag
 
 
 <div align=center>
-<img src="https://github.com/ZeonlungPun/OrientedObjectDetection/blob/main/demo/r1.png" width="600" height="240">
+<img src="https://github.com/ZeonlungPun/OrientedObjectDetection/blob/main/demo/r1.png" width="640" height="640">
 </div>
 
 ### Orchard kiwi fruit counting system based on YOLOV8 and DeepSORT
