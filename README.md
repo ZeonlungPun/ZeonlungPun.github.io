@@ -20,12 +20,16 @@ ZeonLung Pun is now an Algorithm Engineer at KingArgroot Compounds Ltd., mainly 
 
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Seed counting software based on object detection
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+
+Developed a Seed counting software for company daily use with  **Object detection** technique. 
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+
+### Orchard kiwi fruit counting system based on YOLOV8 and DeepSORT
+
+### Food classification software based on ResNet-50
 
 ## Competitions
 **The top 30% winner of the American Graduate Mathematical Modeling Competition** 
