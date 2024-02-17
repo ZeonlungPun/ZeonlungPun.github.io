@@ -4,7 +4,7 @@
 
 #### Technical Skills: Python, C++, AWS, MATLAB
 
-## Biography
+## 🔥 Biography
 ZeonLung Pun is now an Algorithm Engineer at KingArgroot Compounds Ltd., mainly responsible for applying the latest machine learning technology in the fields of biology and agriculture. Pun's technical interests include Computer Vision, Operation Research, Variables Selection and so on. 
 
 ## 🎓 Education					       		
@@ -34,13 +34,15 @@ Recognition rate: On a 10th-generation i3 device with a CPU of 1,000 grains/imag
 
 
 <div align=center>
-<img src="/assets/img/project2.png" width="600" height="240">
+<img src="https://github.com/ZeonlungPun/OrientedObjectDetection/blob/main/demo/r1.png" width="600" height="240">
 </div>
 
 ### Orchard kiwi fruit counting system based on YOLOV8 and DeepSORT
 
+Developed an orchard kiwi fruit counting system  based on YOLOV8 and DeepSORT. The system can directly use video to automatically count kiwi fruits in the orchard and estimate yield automatically. Compared with manual counting, the accuracy of this system reaches more than **90%**.
+
 ### Food classification software based on ResNet-50
-Developed a Food classification software using ResNet-50 classfication Neural Network. There are 99 kinds of food in total and the **Top-5 accuracy** is around 70%.
+Developed a Food classification software using ResNet-50 classfication Neural Network. There are 99 kinds of food in total in the dataset and the **Top-5 accuracy** is around **70%**.
 <div align=center>
 <img src="/assets/img/project1.PNG" width="300" height="240">
 </div>
