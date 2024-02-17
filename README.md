@@ -13,7 +13,7 @@
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
-**Machine Learning Algorithm Engineer Intern @ Suzhou Tongyuan Software&Control Technology Co., Ltd. (_March 2023 - May 2023)**
+**Machine Learning Algorithm Engineer Intern @ Suzhou Tongyuan Software&Control Technology Co., Ltd. (_March 2023 - May 2023_)**
 - Imitated pytorch to write the company's own deep learning framework
 - Investigated the application of object detection technology in the field of autonomous driving
 ## Projects
@@ -25,11 +25,15 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ## Competitions
-**The top 13.5% winner of the Huawei Cup National Postgraduate Mathematical Modeling Competition** 
-
 **The top 30% winner of the American Graduate Mathematical Modeling Competition** 
 
-![Bike Study](/assets/img/bike_study.jpeg)
+**The top 13.5% winner of the Huawei Cup National Postgraduate Mathematical Modeling Competition** 
+
+![Bike Study](/assets/img/b1.png)
+
+**National University Students Electrical Math Modeling Competition Second Price**
+
+![Bike Study](/assets/img/b2.png)
 
 
 
