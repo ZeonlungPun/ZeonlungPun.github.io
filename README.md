@@ -32,7 +32,7 @@ Developed a Seed counting software for company daily use with  **Object detectio
 ### Food classification software based on ResNet-50
 Developed a Food classification software using ResNet-50 classfication Neural Network. There are 99 kinds of food in total and the **Top-5 accuracy** is around 70%.
 <div align=center>
-<img src="/assets/img/project1.PNG" width="240" height="240">
+<img src="/assets/img/project1.PNG" width="300" height="240">
 </div>
 
 ## Competitions
@@ -41,14 +41,14 @@ Developed a Food classification software using ResNet-50 classfication Neural Ne
 **The top 13.5% winner of the Huawei Cup National Postgraduate Mathematical Modeling Competition** 
 
 <div align=center>
-<img src="/assets/img/b1.png" width="240" height="240">
+<img src="/assets/img/b1.png" width="300" height="240">
 </div>
 
 **National University Students Electrical Math Modeling Competition Second Price**
 
 
 <div align=center>
-<img src="/assets/img/b2.png" width="240" height="240">
+<img src="/assets/img/b2.png" width="300" height="240">
 </div>
 
 
