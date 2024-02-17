@@ -10,11 +10,11 @@ ZeonLung Pun is now an Algorithm Engineer at KingArgroot Compounds Ltd., mainly 
 - B.A.  | Department of Management    |  Liaoning University  (_June 2021_)
 
 ## Work Experience
-**Algorithm Engineer @ Qingdao KingArgroot Compounds Ltd (_July 2023 - Present_)**
+**Algorithm Engineer @ QingDao KingArgroot Compounds Ltd (_July 2023 - Present_)**
 - Uncovered the vital features (SNPs) of Genomic datasets
 - Applyed computer vision technology to agriculture
 
-**Machine Learning Algorithm Engineer Intern @ Suzhou Tongyuan Software&Control Technology Co., Ltd. (_March 2023 - May 2023_)**
+**Machine Learning Algorithm Engineer Intern @ SuZhou Tongyuan Software&Control Technology Co., Ltd. (_March 2023 - May 2023_)**
 - Imitated pytorch to write the company's own deep learning framework
 - Investigated the application of object detection technology in the field of autonomous driving
 
@@ -23,7 +23,7 @@ ZeonLung Pun is now an Algorithm Engineer at KingArgroot Compounds Ltd., mainly 
 ### Seed counting software based on object detection
 
 
-Developed a Seed counting software for company daily use with  **Object detection** technique. The size of input image is **3840x2880**.
+Developed a Seed counting software for company daily use with  **Object detection** technique. The size of input image is 3840x2880.
 - For the seeds of millet which are small relate to the image size, we firstly croped the large-size image into a standard size of **640x640**, and then train a **Yolov8-s model** with error less than **5%**.
 - For the seeds of rice which are long strip, we trained a **Yolov7 oriented model** with error less than **5%**.
 - For the seeds of soybeans, corn, sorghum, cucumbers and wheat,  we trained a **Yolov8-s model**  with error less than **3%**.
@@ -56,7 +56,7 @@ Developed a Food classification software using ResNet-50 classfication Neural Ne
 
 
 <div align=center>
-<img src="/assets/img/b2.png" width="300" height="240">
+<img src="/assets/img/b2.png" width="300" height="540">
 </div>
 
 
