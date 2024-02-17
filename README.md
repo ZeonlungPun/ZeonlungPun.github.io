@@ -30,6 +30,10 @@ Developed a Seed counting software for company daily use with  **Object detectio
 ### Orchard kiwi fruit counting system based on YOLOV8 and DeepSORT
 
 ### Food classification software based on ResNet-50
+Developed a Food classification software using ResNet-50 classfication Neural Network. There are 99 kinds of food in total and the **Top-5 accuracy** is around 70%.
+<div align=center>
+<img src="/assets/img/project1.PNG" width="240" height="240">
+</div>
 
 ## Competitions
 **The top 30% winner of the American Graduate Mathematical Modeling Competition** 
