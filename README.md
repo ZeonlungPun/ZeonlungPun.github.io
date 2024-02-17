@@ -29,11 +29,11 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 
 **The top 13.5% winner of the Huawei Cup National Postgraduate Mathematical Modeling Competition** 
 
-![Study1](/assets/img/b1.png #pic_center=640x640))
+![Study1]([/assets/img/b1.png] #pic_center=640x640))
 
 **National University Students Electrical Math Modeling Competition Second Price**
 
-![Study2](/assets/img/b2.png #pic_center=640x640)
+![Study2]([/assets/img/b2.png] #pic_center=640x640)
 
 
 
