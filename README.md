@@ -2,16 +2,17 @@
 
 #### Technical Skills: Python, C++, AWS, MATLAB
 
-#### Interests: Computer Vision, Operation Research, Variables Selection (mainly on application)
+## Biography
+ZeonLung Pun is now an Algorithm Engineer at KingArgroot Compounds Ltd., mainly responsible for applying the latest machine learning technology in the fields of biology and agriculture. Pun's technical interests include Computer Vision, Operation Research, Variables Selection and so on. 
 
 ## Education					       		
 - M.S.  | Department of Mathematics   |  Agricultural University of Central China (_June 2023_)	 			        		
 - B.A.  | Department of Management    |  Liaoning University  (_June 2021_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Algorithm Engineer @ Qingdao KingArgroot Compounds Ltd (_July 2023 - Present_)**
+- Uncovered the vital features (SNPs) of Genomic datasets
+- Applyed computer vision technology to agriculture
 
 **Machine Learning Algorithm Engineer Intern @ Suzhou Tongyuan Software&Control Technology Co., Ltd. (_March 2023 - May 2023_)**
 - Imitated pytorch to write the company's own deep learning framework
@@ -30,14 +31,14 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 **The top 13.5% winner of the Huawei Cup National Postgraduate Mathematical Modeling Competition** 
 
 <div align=center>
-<img src="/assets/img/b1.png" width="640" height="640">
+<img src="/assets/img/b1.png" width="240" height="240">
 </div>
 
 **National University Students Electrical Math Modeling Competition Second Price**
 
 
 <div align=center>
-<img src="/assets/img/b2.png" width="640" height="640">
+<img src="/assets/img/b2.png" width="240" height="240">
 </div>
 
 
