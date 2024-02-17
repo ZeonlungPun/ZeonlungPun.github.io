@@ -35,7 +35,12 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 
 **National University Students Electrical Math Modeling Competition Second Price**
 
-![Study2]([/assets/img/b2.png] #pic_center=640x640)
+
+<div align=center>
+<img src="/assets/img/b2.png" width="640" height="640">
+</div>
+
+
 
 
 
