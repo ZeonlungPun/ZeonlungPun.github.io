@@ -25,7 +25,10 @@ ZeonLung Pun is now an Algorithm Engineer at KingArgroot Compounds Ltd., mainly 
 
 Developed a Seed counting software for company daily use with  **Object detection** technique. 
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+
+<div align=center>
+<img src="/assets/img/project2.png" width="300" height="240">
+</div>
 
 ### Orchard kiwi fruit counting system based on YOLOV8 and DeepSORT
 
