@@ -17,6 +17,8 @@ ZeonLung Pun is now an Algorithm Engineer at KingArgroot Compounds Ltd., mainly 
 **Machine Learning Algorithm Engineer Intern @ Suzhou Tongyuan Software&Control Technology Co., Ltd. (_March 2023 - May 2023_)**
 - Imitated pytorch to write the company's own deep learning framework
 - Investigated the application of object detection technology in the field of autonomous driving
+
+
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
