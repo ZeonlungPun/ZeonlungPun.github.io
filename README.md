@@ -72,3 +72,6 @@ Developed a Food classification software using ResNet-50 classfication Neural Ne
 
 ## Demo
 
+![p2](https://github.com/ZeonlungPun/ZeonlungPun.github.io/assets/122013127/8e979cb9-258a-4464-a196-ff8caf9c6e93)
+
+
