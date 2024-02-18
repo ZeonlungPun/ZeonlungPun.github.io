@@ -8,21 +8,21 @@
 ZeonLung Pun is now an Algorithm Engineer at KingArgroot Compounds Ltd., mainly responsible for applying the latest machine learning technology in the fields of biology and agriculture. Pun's technical interests include Computer Vision, Operation Research, Variables Selection . I am proficient in object detection and object tracking technology, and is able to use opencv and onnxruntime framework to deploy models in **C++**. 
 
 ## 🎓 Education					       		
-- M.S.  | Department of Mathematics   |  Agricultural University of Central China   $~~~~$  華中農業大學 (_June 2023_)	 			        		
-- B.A.  | Department of Management    |  Liaoning University  $~~~~$ 遼寧大學  (_June 2021_)
+- M.S.  | Department of Mathematics   |  Agricultural University of Central China     華中農業大學 (_June 2023_)	 			        		
+- B.A.  | Department of Management    |  Liaoning University  遼寧大學  (_June 2021_)
 
 ## 🧑🏻‍💻 Work Experience
-**Algorithm Engineer @ QingDao KingArgroot Compounds Ltd  $~~~~$ 青島清源化合物有限公司 (_July 2023 - Present_)**
+**Algorithm Engineer @ QingDao KingArgroot Compounds Ltd  青島清源化合物有限公司 (_July 2023 - Present_)**
 - Uncovered the vital features (SNPs) of Genomic datasets
 - Applyed computer vision technology to agriculture
 
-**Machine Learning Algorithm Engineer Intern @ SuZhou Tongyuan Software&Control Technology Co., Ltd.  $~~~~$ 蘇州同元軟控有限公司   (_March 2023 - May 2023_)**
+**Machine Learning Algorithm Engineer Intern @ SuZhou Tongyuan Software&Control Technology Co., Ltd.  蘇州同元軟控有限公司   (_March 2023 - May 2023_)**
 - Imitated pytorch to write the company's own deep learning framework
 - Investigated the application of object detection technology in the field of autonomous driving
 
 
 ## 🛠 Projects
-### Seed counting software based on object detection    $~~~~$   基於目標檢測技術的種子計數軟件
+### Seed counting software based on object detection       基於目標檢測技術的種子計數軟件
 
 
 Developed a Seed counting software for company daily use with  **Object detection** technique. The size of input image is 3840x2880.
@@ -37,11 +37,11 @@ Recognition rate: On a 10th-generation i3 device with a CPU of 1,000 grains/imag
 <img src="/assets/img/r2.png" width="400" height="400">
 </div>
 
-### Orchard kiwi fruit counting pieline based on YOLOV8 and DeepSORT  $~~~~$  基於YOLOV8和DeepSORT模型的果園奇異果計數（產量估計）
+### Orchard kiwi fruit counting pieline based on YOLOV8 and DeepSORT  基於YOLOV8和DeepSORT模型的果園奇異果計數（產量估計）
 
 Developed an orchard kiwi fruit counting pieline  based on YOLOV8 and DeepSORT. The pieline can directly use video to automatically count kiwi fruits in the orchard and estimate yield automatically. Compared with manual counting, the accuracy of this system reaches more than **90%**.
 
-### Food classification software based on ResNet-50   $~~~~$  基於ResNet-50模型的食物分類軟件
+### Food classification software based on ResNet-50    基於ResNet-50模型的食物分類軟件
 Developed a Food classification software using ResNet-50 classfication Neural Network. There are 99 kinds of food in total in the dataset and the **Top-5 accuracy** is around **70%**.
 <div align=center>
 <img src="/assets/img/project1.PNG" width="300" height="240">
@@ -74,7 +74,7 @@ Developed a Food classification software using ResNet-50 classfication Neural Ne
 - [Google Scholar](https://scholar.google.com/citations?user=j5LYZDYAAAAJ&hl=en)
 - [Data Science Blog](https://www.zhihu.com/people/ji-cheng-43-99/posts)
 
-## 💻 Demo
+## 💻 Demos
 
 ![p2](https://github.com/ZeonlungPun/ZeonlungPun.github.io/assets/122013127/8e979cb9-258a-4464-a196-ff8caf9c6e93)
 
