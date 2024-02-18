@@ -8,15 +8,15 @@
 ZeonLung Pun is now an Algorithm Engineer at KingArgroot Compounds Ltd., mainly responsible for applying the latest machine learning technology in the fields of biology and agriculture. Pun's technical interests include Computer Vision, Operation Research, Variables Selection . I am proficient in object detection and object tracking technology, and is able to use opencv and onnxruntime framework to deploy models in **C++**. 
 
 ## 🎓 Education					       		
-- M.S.  | Department of Mathematics   |  Agricultural University of Central China (_June 2023_)	 			        		
-- B.A.  | Department of Management    |  Liaoning University  (_June 2021_)
+- M.S.  | Department of Mathematics   |  Agricultural University of Central China   $~~~~$  華中農業大學 (_June 2023_)	 			        		
+- B.A.  | Department of Management    |  Liaoning University  $~~~~$ 遼寧大學  (_June 2021_)
 
 ## 🧑🏻‍💻 Work Experience
-**Algorithm Engineer @ QingDao KingArgroot Compounds Ltd (_July 2023 - Present_)**
+**Algorithm Engineer @ QingDao KingArgroot Compounds Ltd  $~~~~$ 青島清源化合物有限公司 (_July 2023 - Present_)**
 - Uncovered the vital features (SNPs) of Genomic datasets
 - Applyed computer vision technology to agriculture
 
-**Machine Learning Algorithm Engineer Intern @ SuZhou Tongyuan Software&Control Technology Co., Ltd. (_March 2023 - May 2023_)**
+**Machine Learning Algorithm Engineer Intern @ SuZhou Tongyuan Software&Control Technology Co., Ltd.  $~~~~$ 蘇州同元軟控有限公司   (_March 2023 - May 2023_)**
 - Imitated pytorch to write the company's own deep learning framework
 - Investigated the application of object detection technology in the field of autonomous driving
 
@@ -48,7 +48,7 @@ Developed a Food classification software using ResNet-50 classfication Neural Ne
 </div>
 
 ## 🎖 Competitions Awards
-**The top 30% winner of the American Graduate Mathematical Modeling Competition** 
+**The top 30% winner of the American  Mathematical Modeling Competition** 
 
 **The top 13.5% winner of the Huawei Cup National Postgraduate Mathematical Modeling Competition** 
 
