@@ -50,7 +50,7 @@ Developed a Food classification software using ResNet-50 classfication Neural Ne
 ## 🎖 Competitions Awards
 **The top 30% winner of the American  Mathematical Modeling Competition** 
 
-**The top 13.5% winner of the Huawei Cup National Postgraduate Mathematical Modeling Competition** 
+**The top 13.5% winner of 'Huawei Cup' The 18th China Post-Graduate Mathematical Contest in Modeling** 
 
 <div align=center>
 <img src="/assets/img/b1.png" width="300" height="240">
