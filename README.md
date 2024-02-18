@@ -55,7 +55,7 @@ Evaluated feature importance using SHAP algorithm, and the most important 3000 a
 
 <div style="display: flex;">
   <img src="/assets/img/p3.JPG" style="flex: 1;" width="300" height="240">
-  <img src="/assets/img/p4.JPG" style="flex: 1;" width="300" height="240">
+  <img src="/assets/img/p4.JPG" style="flex: 2;" width="300" height="240">
 </div>
 
 
