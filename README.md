@@ -54,8 +54,8 @@ Evaluated feature importance using SHAP algorithm, and the most important 3000 a
 
 
 <center class="half">
-<img src="/assets/img/p3.JPG" width=250 height=260>
-<img src="/assets/img/p4.png" width=250 height=240>
+<img src="/assets/img/p3.JPG" width=150 height=260>
+<img src="/assets/img/p4.png" width=150 height=240>
 </center>
 
 
