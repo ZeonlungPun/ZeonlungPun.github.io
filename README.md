@@ -22,7 +22,7 @@ ZeonLung Pun is now an Algorithm Engineer at KingArgroot Compounds Ltd., mainly 
 
 
 ## 🛠 Projects
-### Seed counting software based on object detection   &nbsp  基於目標檢測技術的種子計數軟件
+### Seed counting software based on object detection    $~~~~$   基於目標檢測技術的種子計數軟件
 
 
 Developed a Seed counting software for company daily use with  **Object detection** technique. The size of input image is 3840x2880.
