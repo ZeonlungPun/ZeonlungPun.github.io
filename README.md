@@ -99,11 +99,11 @@ National University Students Electrical Math Modeling Competition Second Price
 ![p1](https://github.com/ZeonlungPun/ZeonlungPun.github.io/assets/122013127/95382926-4185-4820-8085-7efab71dff55)
 
 <center class="half">
-<img src="/assets/img/x1.jpg" width=100 height=400>
-<img src="/assets/img/x2.jpg" width=100 height=400>
-<img src="/assets/img/x3.jpg" width=100 height=400>
-<img src="/assets/img/x4.jpg" width=100 height=400>
- <img src="/assets/img/x5.jpg" width=100 height=400>
+<img src="/assets/img/x1.jpg" width=80 height=400>
+<img src="/assets/img/x2.jpg" width=80 height=400>
+<img src="/assets/img/x3.jpg" width=80 height=400>
+<img src="/assets/img/x4.jpg" width=80 height=400>
+ <img src="/assets/img/x5.jpg" width=80 height=400>
 
 </center>
 
