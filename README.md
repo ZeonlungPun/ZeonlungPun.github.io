@@ -5,7 +5,7 @@
 #### Technical Skills: Python, C++, AWS, MATLAB
 
 ## 🔥 Biography
-ZeonLung Pun is now an Algorithm Engineer at KingArgroot Compounds Ltd., mainly responsible for applying the latest machine learning technology in the fields of biology and agriculture. Pun's technical interests include Computer Vision, Operation Research, Variables Selection and so on. 
+ZeonLung Pun is now an Algorithm Engineer at KingArgroot Compounds Ltd., mainly responsible for applying the latest machine learning technology in the fields of biology and agriculture. Pun's technical interests include Computer Vision, Operation Research, Variables Selection . I am proficient in object detection and object tracking technology, and is able to use opencv and onnxruntime framework to deploy models in **C++**. 
 
 ## 🎓 Education					       		
 - M.S.  | Department of Mathematics   |  Agricultural University of Central China (_June 2023_)	 			        		
@@ -22,7 +22,7 @@ ZeonLung Pun is now an Algorithm Engineer at KingArgroot Compounds Ltd., mainly 
 
 
 ## 🛠 Projects
-### Seed counting software based on object detection
+### Seed counting software based on object detection   $~~~~$  基於目標檢測技術的種子計數軟件
 
 
 Developed a Seed counting software for company daily use with  **Object detection** technique. The size of input image is 3840x2880.
@@ -37,11 +37,11 @@ Recognition rate: On a 10th-generation i3 device with a CPU of 1,000 grains/imag
 <img src="/assets/img/r2.png" width="400" height="400">
 </div>
 
-### Orchard kiwi fruit counting system based on YOLOV8 and DeepSORT
+### Orchard kiwi fruit counting pieline based on YOLOV8 and DeepSORT  $~~~~$  基於YOLOV8和DeepSORT模型的果園奇異果計數（產量估計）
 
-Developed an orchard kiwi fruit counting system  based on YOLOV8 and DeepSORT. The system can directly use video to automatically count kiwi fruits in the orchard and estimate yield automatically. Compared with manual counting, the accuracy of this system reaches more than **90%**.
+Developed an orchard kiwi fruit counting pieline  based on YOLOV8 and DeepSORT. The pieline can directly use video to automatically count kiwi fruits in the orchard and estimate yield automatically. Compared with manual counting, the accuracy of this system reaches more than **90%**.
 
-### Food classification software based on ResNet-50
+### Food classification software based on ResNet-50   $~~~~$  基於ResNet-50模型的食物分類軟件
 Developed a Food classification software using ResNet-50 classfication Neural Network. There are 99 kinds of food in total in the dataset and the **Top-5 accuracy** is around **70%**.
 <div align=center>
 <img src="/assets/img/project1.PNG" width="300" height="240">
