@@ -107,3 +107,14 @@ National University Students Electrical Math Modeling Competition Second Price
 
 </center>
 
+<div align=center>
+<img src="/assets/img/face.png" width="1000" height="500">
+</div>
+
+<div align=center>
+<img src="/assets/img/g1.png" width="1000" height="500">
+</div>
+
+<div align=center>
+<img src="/assets/img/g2.png" width="1000" height="500">
+</div>
