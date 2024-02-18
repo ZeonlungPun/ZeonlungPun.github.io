@@ -34,7 +34,7 @@ Recognition rate: On a 10th-generation i3 device with a CPU of 1,000 grains/imag
 
 
 <div align=center>
-<img src="/assets/img/r2.png" width="640" height="640">
+<img src="/assets/img/r2.png" width="400" height="400">
 </div>
 
 ### Orchard kiwi fruit counting system based on YOLOV8 and DeepSORT
