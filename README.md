@@ -47,16 +47,23 @@ Developed a Food classification software using ResNet-50 classfication Neural Ne
 <img src="/assets/img/project1.PNG" width="300" height="240">
 </div>
 
-## 🎖 Competitions Awards
-**The top 30% winner of the American  Mathematical Modeling Competition** 
+### Application of Machine Learning in the field of Genomic Selection
+Evaluated feature importance using SHAP algorithm, and the most important 4000 are selected from 9000 independent variables, and these 4000 independent variables are used for modeling. This approach can not only reduce memory consumption and save model training time, but also slightly improve the prediction accuracy of the model.
 
-**The top 13.5% winner of 'Huawei Cup' The 18th China Post-Graduate Mathematical Contest in Modeling** 
+### Application of optimization algorithms in the field of corn breeding
+
+### Using LangChain and Mistral7b to develop a Q&A platform in the field of biotechnology 
+
+## 🎖 Competitions Awards
+The top 30% winner of the American  Mathematical Modeling Competition
+
+The top 13.5% winner of 'Huawei Cup' The 18th China Post-Graduate Mathematical Contest in Modeling
 
 <div align=center>
 <img src="/assets/img/b1.png" width="300" height="240">
 </div>
 
-**National University Students Electrical Math Modeling Competition Second Price**
+National University Students Electrical Math Modeling Competition Second Price
 
 
 <div align=center>
