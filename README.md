@@ -47,7 +47,7 @@ Developed a Food classification software using ResNet-50 classfication Neural Ne
 <img src="/assets/img/project1.PNG" width="300" height="240">
 </div>
 
-### Application of Machine Learning in the field of Genomic Selection
+### Application of Machine Learning in the field of Genomic Selection   機器學習在全基因組選擇中的應用
 Evaluated feature importance using SHAP algorithm, and the most important 3000 are selected from 9000 independent variables, and these 4000 independent variables are used for modeling. This approach can not only reduce memory consumption and save model training time, but also slightly improve the prediction accuracy of the model.
 
  
