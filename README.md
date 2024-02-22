@@ -98,7 +98,7 @@ National University Students Electrical Math Modeling Competition Second Price
 
 ![p1](https://github.com/ZeonlungPun/ZeonlungPun.github.io/assets/122013127/95382926-4185-4820-8085-7efab71dff55)
 
-![Watch the video](https://www.youtube.com/watch?v=a9CmkY16Z-8)
+
 
 <center class="half">
 <img src="/assets/img/x1.jpg" width=80 height=400>
@@ -106,6 +106,15 @@ National University Students Electrical Math Modeling Competition Second Price
 <img src="/assets/img/x3.jpg" width=80 height=400>
 <img src="/assets/img/x4.jpg" width=80 height=400>
  <img src="/assets/img/x5.jpg" width=80 height=400>
+
+</center>
+
+<center class="half">
+<img src="/assets/img/gyd.jpg" width=255 height=255>
+<img src="/assets/img/nl.jpg" width=255 height=255>
+<img src="/assets/img/shan.jpg" width=255 height=255>
+<img src="/assets/img/shan2.jpg" width=255 height=255>
+ 
 
 </center>
 
