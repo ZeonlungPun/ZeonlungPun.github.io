@@ -33,10 +33,6 @@ Developed a Seed counting software for company daily use with  **Object detectio
 Recognition rate: On a 10th-generation i3 device with a CPU of 1,000 grains/image, millet takes less than **15 seconds**, rice takes less than **3 seconds**, and other crops take less than **2 seconds**.
 
 
-<div align=center>
-<img src="/assets/img/r2.png" width="400" height="400">
-</div>
-
 ### Orchard kiwi fruit counting pieline based on YOLOV8 and DeepSORT  基於YOLOV8和DeepSORT模型的果園奇異果計數（產量估計）
 
 Developed an orchard kiwi fruit counting pieline  based on YOLOV8 and DeepSORT. The pieline can directly use video to automatically count kiwi fruits in the orchard and estimate yield automatically. Compared with manual counting, the accuracy of this system reaches more than **90%**.
@@ -100,33 +96,4 @@ National University Students Electrical Math Modeling Competition Second Price
 
 
 
-<center class="half">
-<img src="/assets/img/x1.jpg" width=80 height=400>
-<img src="/assets/img/x2.jpg" width=80 height=400>
-<img src="/assets/img/x3.jpg" width=80 height=400>
-<img src="/assets/img/x4.jpg" width=80 height=400>
- <img src="/assets/img/x5.jpg" width=80 height=400>
 
-</center>
-
-<center class="half">
-<img src="/assets/img/gyd.jpg" width=200 height=255>
-<img src="/assets/img/nl.jpg" width=200 height=255>
- </center>
-
-<center class="half">
-<img src="/assets/img/shan.jpg" width=200 height=255>
-<img src="/assets/img/shan2.jpg" width=200 height=255>
-</center>
-
-<div align=center>
-<img src="/assets/img/face.png" width="1000" height="300">
-</div>
-
-<div align=center>
-<img src="/assets/img/g1.png" width="1000" height="300">
-</div>
-
-<div align=center>
-<img src="/assets/img/g2.png" width="1000" height="300">
-</div>
