@@ -59,7 +59,7 @@ Evaluated feature importance using SHAP algorithm, and the most important 3000 a
 
 ### Application of optimization algorithms in the field of corn breeding
 
-### Using LangChain and Mistral7b to develop a Q&A platform in the field of biotechnology 
+### Using LangChain and ChatGPT/Gemini to develop a Q&A platform in the field of biotechnology 
 
 ## 🎖 Competitions Awards
 The top 30% winner of the American  Mathematical Modeling Competition
@@ -85,9 +85,10 @@ National University Students Electrical Math Modeling Competition Second Price
 1. Pan, Junlong & Li, Weifu & Liu, Liyuan & Jia, Kang & Liu, Tong & Chen, Fen. (2023). Variable Selection Using Deep Variational Information Bottleneck with Drop-Out-One Loss. Applied Sciences. 13. 3008. 10.3390/app13053008. 
 2. Qin Z, Li W, Wang Z, Pan J, Wang Z, Li Z, Wang G, Pan J, Liu F, Huang L, Tan L, Zhang L, Han H, Chen H, Jiang L, High-throughput characterization methods for Ni-based superalloys and phase prediction via deep learning, Journal of Materials Research and Technology, https://doi.org/10.1016/j.jmrt.2022.10.032.
 
-- [Google Scholar](https://scholar.google.com/citations?user=j5LYZDYAAAAJ&hl=en)
-- [Data Science Blog](https://www.zhihu.com/people/ji-cheng-43-99/posts)
 
+- [Data Science Blog 1](https://www.zhihu.com/people/ji-cheng-43-99/posts)
+- [Data Science Blog 2](https://medium.com/me/stories/public)
+  
 ## 💻 Demos
 
 ![p2](https://github.com/ZeonlungPun/ZeonlungPun.github.io/assets/122013127/8e979cb9-258a-4464-a196-ff8caf9c6e93)
